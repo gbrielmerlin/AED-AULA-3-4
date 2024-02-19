@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-typedef int Element;
+typedef double Element;
 
 void print_element(Element);
 
